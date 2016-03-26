@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  I think viewing a diff between two versions of a file make me to the see the bug clearly through comparison not just see through the original file so that the bug is not that obvious.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see the misunderstanding and mistakes you made before by the old version of yours. So gaining access to the entire history of a file will help you notice what you have done incorrect or perfect in the past then you may improve in the future.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think pros when manually choosing when to create a commit, it is likely that they will make one commit per logical change. But as the versions automatically saved like Google docs would sometimes be more randomly to your code compling, saved when you are not finished or make less sense when looking at the automatically saved files.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think Git allows saving multiple files in one commit because the files in one repository are connected to each other if one commit of them is saved that means the files in the repository can be checked in a convenient way since they were all saved in the commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The commands git log allows you to view all the commits through one repository. And the command git diff then follows with 2 commits ID will allow you to view and compare the two history version of the file. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    After using the command git checkout and git diff to see the former version and updated version, it is easy to see the difference and maybe the bugs from the file. So when next time debuging would still be hard but not that hard I think.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will try to be familiar with git and the instruction and right now there is not much for me to do as to program or sth like it. But I can do some reviewing.
