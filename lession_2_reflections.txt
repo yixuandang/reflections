@@ -28,3 +28,5 @@ Two branches will come together to be one master branch. We represent it in the 
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Git's automatic merging help to save much time to combine the same thing that one branch would conclude, the disadvantage is that git can not figure out how to fix the conflict. Manually merging can fix the conflict well but if we are about to combine the two branches the common part comparision is a huge work load for us.
