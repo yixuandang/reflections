@@ -10,13 +10,21 @@ I think the staging area is the buffer between the working directory and the rep
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+First use the command git add to add whatever you want to commit in one logical change area, then use git commit to commit the file. The result turned out to be having one commit per logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+I think in some point you want to make an actual another version of your file and in that point you should use branches. The branches can let you change the one of the version of the file but not the whole version so the chances of risk is low if sth goes wrong.
+
 How do the diagrams help you visualize the branch structure?
+
+The diagram shows clearly that the relationship of branches and commits.It use the commits we make to show the whole timeline and the structure of the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Two branches will come together to be one master branch. We represent it in the diagram because we have to figure out clearly what commit belongs to which branch and we can see the relationship between the master branch and all other branches through commits.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
