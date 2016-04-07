@@ -6,7 +6,7 @@
   a.Forks is you make a copy of other's file from their github page and you can not modify or edit it. Clones is that you make a copy of your own local file to your github file folder like exactly the same and you can edit it or sync it manually. Branches are belong to the same repository whether it is a local repository or a github online repository.
   b.When I am using clone, it is often refers that I am cloing a local repository to my github site. When I am using fork, it is often refers that I am forking a repository from other user's github site to my github site. When I am using branches, it is often refers that I came up with a different idea or code at the middle of my file editing but I do not want to change my master file so that I can see the difference from a new other branch.
 4.What is the benefit of having a copy of the last known state of the remote stored locally?
-  Fill in your answer here.
+  I can see the recent state remote even if I am offline right now. It is a easy way to know what the remote version is at some point.
 5.How would you collaborate without using Git or GitHub?  What would be easier,and what would be harder?
   Fill in your answer here.
 6.When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
